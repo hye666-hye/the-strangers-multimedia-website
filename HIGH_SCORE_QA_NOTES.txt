@@ -1,30 +1,8 @@
-High-score QA notes
-
-Updated with student/course information:
-- Student: Jim Chen
-- Teacher: Ms. Lilah
-- Course: ENG4U
-
-Important evidence note:
-- The supplied file ?The Strangers PDF.pdf? is a Bookey summary/study guide, not the full novel text.
-- It is useful for character/plot orientation but cannot verify exact novel quotations or page numbers.
-- For the website, the draft now avoids depending on exact unverified page quotations.
-- If the teacher asks for page-specific textual evidence, use the physical/official ebook copy of The Strangers.
-
-Rubric targeting:
-- Knowledge: clear thesis and novel/lens focus.
-- Thinking: postcolonial theory, Sixties Scoop, MMIWG, settler-colonial logic.
-- Communication: concise webpage sections, audio reflection script, clear navigation.
-- Application: responsive website, interactive tabs, context timeline, external video, audio placeholder.
-
-Final tasks before submission:
-1. Record voice_recording_script.txt.
-2. Save audio as assets/voice-reflection.mp3.
-3. Open index.html and test the audio player.
-4. Upload/publish the whole strangers_website_draft folder as a live website.
-5. Submit the live link plus Works_Cited_for_submission.txt if Brightspace asks for a file.
-
-
-Voice recording added:
-- assets/voice-reflection.m4a
-- HTML audio player updated to use this file.
+Updated requirements checklist:
+[x] New voice script is over two minutes.
+[ ] Student must re-record the audio; old recording is only about 55 seconds.
+[x] Added book cover, author image, and MMIWG-related red dress image.
+[x] Added author introduction.
+[x] Added short direct quotations with 2-3 sentence explanations.
+[x] Added image citations and cleaner Works Cited.
+[x] Website remains responsive and suitable for GitHub Pages.
