@@ -1,11 +1,10 @@
 Final QA checklist
 
+[x] Added About the Novel section: author/genre, setting, plot summary, themes.
+[x] Added Plot and Character Guide: Cedar, Elsie, Phoenix, Margaret.
+[x] Direct quotations now include in-text citations.
 [x] Works Cited entries alphabetized by first word/author/title.
 [x] No bullet points in website Works Cited; screen version uses hanging-indent style.
-[x] Removed internal note above public Works Cited.
-[x] Corrected italics so corporate authors are not italicized when they are the author field.
 [x] Formal DOCX Works Cited uses hanging indentation.
-[x] Author names and titles checked for capitalization.
 [x] Removed public draft/internal warning wording.
-[x] Direct quotations credit Vermette's primary novel.
 [x] New voice recording added. Duration: about 2:36.
