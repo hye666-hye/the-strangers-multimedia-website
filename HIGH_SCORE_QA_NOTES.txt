@@ -4,5 +4,6 @@ Final QA checklist
 [x] Capitalized Katherena Vermette in visible website text.
 [x] Removed the quotation-source warning note from the public webpage.
 [x] Changed on-page Works Cited from bullet points to hanging-indent style entries.
+[x] Improved Works Cited screen layout so long dates, page ranges, and URLs wrap cleanly.
 [x] New voice recording added. Duration: about 2:36.
-[x] Works Cited DOCX remains available for submission.
+[x] Works Cited DOCX remains available for formal submission.
