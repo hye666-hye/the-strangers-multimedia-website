@@ -1,10 +1,12 @@
-Final QA checklist
+Final QA checklist against PPT Level 3/4 website requirements
 
-[x] Added About the Novel section: author/genre, setting, plot summary, themes.
-[x] Added Plot and Character Guide: Cedar, Elsie, Phoenix, Margaret.
-[x] Direct quotations now include in-text citations.
-[x] Works Cited entries alphabetized by first word/author/title.
-[x] No bullet points in website Works Cited; screen version uses hanging-indent style.
-[x] Formal DOCX Works Cited uses hanging indentation.
-[x] Removed public draft/internal warning wording.
-[x] New voice recording added. Duration: about 2:36.
+[x] Novel summary included.
+[x] Author, book facts, setting, plot, characters, and themes included.
+[x] Main ideas from essay included: thesis, family separation, cultural memory, survival/resistance.
+[x] Direct quotations include in-text citations and short explanations.
+[x] Literary theory section explains postcolonial theory, major ideas/theorists, and what I learned.
+[x] Related images included: book cover, author image, MMIWG/red dress image.
+[x] Related links and video resource included.
+[x] Own voice audio included, about 2:36.
+[x] Works Cited alphabetized, no bullet points on webpage, formal DOCX available.
+[x] No public draft/internal warning wording.
