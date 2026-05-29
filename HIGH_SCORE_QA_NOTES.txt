@@ -1,8 +1,9 @@
-Updated requirements checklist:
-[x] New voice script is over two minutes.
-[ ] Student must re-record the audio; old recording is only about 55 seconds.
-[x] Added book cover, author image, and MMIWG-related red dress image.
-[x] Added author introduction.
-[x] Added short direct quotations with 2-3 sentence explanations.
-[x] Added image citations and cleaner Works Cited.
-[x] Website remains responsive and suitable for GitHub Pages.
+Final QA checklist
+
+[x] Removed visible draft wording from the website.
+[x] Replaced rubric self-evaluation wording with natural website design explanation.
+[x] Works Cited revised toward MLA style with access dates for online sources.
+[x] Added MLA-style DOCX Works Cited with hanging indentation.
+[x] GitHub Pages can be updated under the same URL.
+
+Reminder: if a new longer audio is recorded, replace assets/voice-reflection.m4a and update GitHub.
