@@ -1,9 +1,9 @@
 Final QA checklist
 
-[x] Removed visible Draft/draft wording from the website.
-[x] Capitalized Katherena Vermette in visible website text.
-[x] Removed the quotation-source warning note from the public webpage.
-[x] Changed on-page Works Cited from bullet points to hanging-indent style entries.
-[x] Improved Works Cited screen layout so long dates, page ranges, and URLs wrap cleanly.
+[x] Works Cited entries alphabetized by first word/author/title.
+[x] No bullet points in website Works Cited; screen version uses hanging-indent style.
+[x] Formal DOCX Works Cited uses hanging indentation.
+[x] Author names and titles checked for capitalization.
+[x] Removed public draft/internal warning wording.
+[x] Direct quotations now credit Vermette's primary novel instead of a quote-guide note.
 [x] New voice recording added. Duration: about 2:36.
-[x] Works Cited DOCX remains available for formal submission.
