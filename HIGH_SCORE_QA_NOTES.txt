@@ -1,8 +1,8 @@
 Final QA checklist
 
+[x] Removed visible Draft/draft wording from the website.
+[x] Capitalized Katherena Vermette in visible website text.
+[x] Removed the quotation-source warning note from the public webpage.
+[x] Changed on-page Works Cited from bullet points to hanging-indent style entries.
 [x] New voice recording added. Duration: about 2:36.
-[x] Visible draft wording removed from the website.
-[x] Rubric self-evaluation wording replaced with natural website design explanation.
-[x] Works Cited revised toward MLA style with access dates for online sources.
-[x] Added MLA-style DOCX Works Cited with hanging indentation.
-[x] GitHub Pages can be updated under the same URL.
+[x] Works Cited DOCX remains available for submission.
