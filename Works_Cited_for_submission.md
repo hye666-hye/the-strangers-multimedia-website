@@ -12,9 +12,9 @@ LaRocque, Emma. *When the Other Is Me: Native Resistance Discourse, 1850-1990*. 
 
 National Inquiry into Missing and Murdered Indigenous Women and Girls. "Final Report." *MMIWG*, mmiwg-ffada.ca/final-report/. Accessed 29 May 2026.
 
-*Penguin Random House*. "Katherena Vermette." *Penguin Random House*, www.penguinrandomhouse.com/authors/2186969/katherena-vermette/. Accessed 29 May 2026.
+Penguin Random House. "Katherena Vermette." *Penguin Random House*, www.penguinrandomhouse.com/authors/2186969/katherena-vermette/. Accessed 29 May 2026.
 
-**Penguin Random House* Canada*. "*The Strangers* by Katherena Vermette." **Penguin Random House* Canada*, www.penguinrandomhouse.ca/books/624145/the-strangers-by-katherena-vermette/9780735239630. Accessed 29 May 2026.
+Penguin Random House Canada. "The Strangers by Katherena Vermette." *Penguin Random House Canada*, www.penguinrandomhouse.ca/books/624145/the-strangers-by-katherena-vermette/9780735239630. Accessed 29 May 2026.
 
 Sinclair, Raven. "Identity Lost and Found: Lessons from the Sixties Scoop." *First Peoples Child & Family Review*, vol. 3, no. 1, 2007, pp. 65-82.
 
