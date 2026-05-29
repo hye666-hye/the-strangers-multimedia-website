@@ -1,7 +1,6 @@
-Status: website content has been revised for the new requirements.
+Final submission files
 
-Important: the current audio file is still the old 55-second recording. Before final submission, record the new 2-minute script in voice_recording_script.txt and replace assets/voice-reflection.m4a.
+1. Website link: https://hye666-hye.github.io/the-strangers-multimedia-website/
+2. Works Cited file: Works_Cited_MLA.docx or Works_Cited_for_submission.txt
 
-Submit:
-1. GitHub Pages live link.
-2. Works_Cited_for_submission.txt if Brightspace asks for a file upload.
+Note: If the audio is re-recorded, replace assets/voice-reflection.m4a and re-upload to GitHub Pages so the same link shows the newest version.
